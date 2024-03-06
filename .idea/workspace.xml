@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb27516c-59f3-43b5-9cfc-12d224ece7f1" name="Default Changelist" comment="">
+    <list default="true" id="eb27516c-59f3-43b5-9cfc-12d224ece7f1" name="Default Changelist" comment="生产模式 支持 bsc-testnet">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/948.38c463ef.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/948.38c463ef.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/948.38c463ef.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.d634b246.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.d634b246.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.d634b246.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +43,23 @@
       <option name="presentableId" value="Default" />
       <updated>1709652227049</updated>
       <workItem from="1709652229547" duration="351000" />
-      <workItem from="1709652690668" duration="1711000" />
+      <workItem from="1709652690668" duration="3873000" />
     </task>
+    <task id="LOCAL-00001" summary="生产模式 支持 bsc-testnet">
+      <created>1709721722032</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709721722032</updated>
+    </task>
+    <task id="LOCAL-00002" summary="生产模式 支持 bsc-testnet">
+      <created>1709722365530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709722365530</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +76,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="生产模式 支持 bsc-testnet" />
+    <option name="LAST_COMMIT_MESSAGE" value="生产模式 支持 bsc-testnet" />
   </component>
 </project>
