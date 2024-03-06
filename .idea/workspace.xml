@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb27516c-59f3-43b5-9cfc-12d224ece7f1" name="Default Changelist" comment="生产模式 支持 bsc-testnet">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eb27516c-59f3-43b5-9cfc-12d224ece7f1" name="Default Changelist" comment="生产模式 支持 bsc-testnet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709652227049</updated>
       <workItem from="1709652229547" duration="351000" />
-      <workItem from="1709652690668" duration="3873000" />
+      <workItem from="1709652690668" duration="4301000" />
     </task>
     <task id="LOCAL-00001" summary="生产模式 支持 bsc-testnet">
       <created>1709721722032</created>
@@ -59,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709722365530</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="生产模式 支持 bsc-testnet">
+      <created>1709727698918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709727698918</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
