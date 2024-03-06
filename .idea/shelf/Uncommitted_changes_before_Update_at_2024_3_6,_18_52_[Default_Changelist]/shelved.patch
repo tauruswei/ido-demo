@@ -1,0 +1,81 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"eb27516c-59f3-43b5-9cfc-12d224ece7f1\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/asset-manifest.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/asset-manifest.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/static/js/948.38c463ef.chunk.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/static/js/948.38c463ef.chunk.js.LICENSE.txt\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/static/js/948.38c463ef.chunk.js.map\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/static/js/main.d634b246.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/static/js/main.d634b246.js.LICENSE.txt\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/static/js/main.d634b246.js.map\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ChangesViewManager\">\n    <option name=\"groupingKeys\">\n      <option value=\"directory\" />\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2dH5aOHzjvNoTw1FYC2HSh9Q3yb\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"autoscrollFromSource\" value=\"true\" />\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n    <option name=\"showMembers\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"eb27516c-59f3-43b5-9cfc-12d224ece7f1\" name=\"Default Changelist\" comment=\"\" />\n      <created>1709652227049</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1709652227049</updated>\n      <workItem from=\"1709652229547\" duration=\"351000\" />\n      <workItem from=\"1709652690668\" duration=\"1711000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision da4796a011e109f94a7eedf347d7d53d12cdc992)
++++ b/.idea/workspace.xml	(date 1709722346117)
+@@ -1,16 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="eb27516c-59f3-43b5-9cfc-12d224ece7f1" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/js/948.38c463ef.chunk.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/js/948.38c463ef.chunk.js.LICENSE.txt" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/js/948.38c463ef.chunk.js.map" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/js/main.d634b246.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/js/main.d634b246.js.LICENSE.txt" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/js/main.d634b246.js.map" beforeDir="false" />
++    <list default="true" id="eb27516c-59f3-43b5-9cfc-12d224ece7f1" name="Default Changelist" comment="生产模式 支持 bsc-testnet">
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/static/js/948.57fedbcf.chunk.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/static/js/948.57fedbcf.chunk.js.LICENSE.txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/static/js/948.57fedbcf.chunk.js.map" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/static/js/main.4a66e6c8.js" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/static/js/main.4a66e6c8.js.LICENSE.txt" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/static/js/main.4a66e6c8.js.map" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -50,8 +48,16 @@
+       <option name="presentableId" value="Default" />
+       <updated>1709652227049</updated>
+       <workItem from="1709652229547" duration="351000" />
+-      <workItem from="1709652690668" duration="1711000" />
++      <workItem from="1709652690668" duration="2373000" />
++    </task>
++    <task id="LOCAL-00001" summary="生产模式 支持 bsc-testnet">
++      <created>1709721722032</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1709721722032</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -69,4 +75,8 @@
+     </option>
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="生产模式 支持 bsc-testnet" />
++    <option name="LAST_COMMIT_MESSAGE" value="生产模式 支持 bsc-testnet" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1709653008344)
++++ b/.idea/vcs.xml	(date 1709653008344)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
